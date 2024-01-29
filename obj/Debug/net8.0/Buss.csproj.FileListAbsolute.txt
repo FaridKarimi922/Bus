@@ -1,0 +1,14 @@
+C:\Users\peyman\source\repos\Buss\Buss\bin\Debug\net8.0\Buss.exe
+C:\Users\peyman\source\repos\Buss\Buss\bin\Debug\net8.0\Buss.deps.json
+C:\Users\peyman\source\repos\Buss\Buss\bin\Debug\net8.0\Buss.runtimeconfig.json
+C:\Users\peyman\source\repos\Buss\Buss\bin\Debug\net8.0\Buss.dll
+C:\Users\peyman\source\repos\Buss\Buss\bin\Debug\net8.0\Buss.pdb
+C:\Users\peyman\source\repos\Buss\Buss\obj\Debug\net8.0\Buss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peyman\source\repos\Buss\Buss\obj\Debug\net8.0\Buss.AssemblyInfoInputs.cache
+C:\Users\peyman\source\repos\Buss\Buss\obj\Debug\net8.0\Buss.AssemblyInfo.cs
+C:\Users\peyman\source\repos\Buss\Buss\obj\Debug\net8.0\Buss.csproj.CoreCompileInputs.cache
+C:\Users\peyman\source\repos\Buss\Buss\obj\Debug\net8.0\Buss.dll
+C:\Users\peyman\source\repos\Buss\Buss\obj\Debug\net8.0\refint\Buss.dll
+C:\Users\peyman\source\repos\Buss\Buss\obj\Debug\net8.0\Buss.pdb
+C:\Users\peyman\source\repos\Buss\Buss\obj\Debug\net8.0\Buss.genruntimeconfig.cache
+C:\Users\peyman\source\repos\Buss\Buss\obj\Debug\net8.0\ref\Buss.dll
